@@ -9,11 +9,11 @@ The page is almost ready to be published. You’ll be making the following color
 * Add some semi-transparent overlays to the banner and footer using RGBA.
 * Fill in the first color column of the swatch samples using HSL colors.
 
-- [] 1. In style.css, find the three CSS rules that use the named color orange. This color is not exactly the right orange to match the paint store brand. Replace orange with the hex color #ff8000.
+- [x] 1. In style.css, find the three CSS rules that use the named color orange. This color is not exactly the right orange to match the paint store brand. Replace orange with the hex color #ff8000.
     * The first place of `orange` is the background of the header, under the selector `header`.
     * The second location is the text color for the “Color Guide” heading, under the selector `#color-guide h2`.
 
-- [] 2. Make the main title text of the `h1` element semi-transparent to match the spooky text theme. To do so, set the `color` property with `rgba()` to make the text black (`0` for red, green, and blue values) with `0.7` alpha value.
+- [x] 2. Make the main title text of the `h1` element semi-transparent to match the spooky text theme. To do so, set the `color` property with `rgba()` to make the text black (`0` for red, green, and blue values) with `0.7` alpha value.
 
 - [] 3. Give the header’s background image a semi-transparent orange overlay to simulate a photographic filter.
         In the `#banner:before` selector on line 95, add a background color with the value `rgba(255, 128, 0, 0.75)`.
