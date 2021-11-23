@@ -243,7 +243,7 @@ h1 {
 
 /* Red lightness decreases by 15 */
 .reds .lightness .color-1 {
-  background-color: hsl(350, 100%, 80%);
+  background-color: hsl(350, 100%, 80%)
 }
 
 .reds .lightness .color-2 {
@@ -285,7 +285,7 @@ h1 {
 
 /* Red hue increases by 15 */
 .reds .hue .color-1 {
-  background-color: hsl(335, 100%, 50%);
+  background-color: hsl(320, 100%, 50%)
 }
 
 .reds .hue .color-2 {
